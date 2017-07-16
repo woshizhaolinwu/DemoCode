@@ -1,0 +1,4 @@
+<< /proc/cmdline >>:
+console=tty0 console=ttyMT0,921600n1 root=/dev/ram vmalloc=496M slub_max_order=0 slub_debug=O androidboot.hardware=mt6755 androidboot.verifiedbootstate=green bootopt=64S3,32N2,64N2 lcm=1-s6e8aa5_720p_vdo_idol4mini fps=6010 vram=13172736 printk.disable_uart=1 bootprof.pl_t=874 bootprof.lk_t=4781 boot_reason=0 androidboot.serialno=UO4T9LRWLNRKSOAY androidboot.bootreason=power_key gpt=1 usb2jtag_mode=0
+================ END of FILE ===============
+

@@ -1,0 +1,122 @@
+<< /proc/bootprof >>:
+----------------------------------------
+1	    BOOT PROF (unit:msec)
+----------------------------------------
+       874        : preloader
+      4781        : lk
+       287        : lk->Kernel
+----------------------------------------
+        47.041692 : ON
+        97.733230 :    1-swapper/0       : initcall: of_init    18.092846ms
+       168.022154 :    1-swapper/0       : initcall: arm64_device_init    43.018615ms
+       266.911615 :    1-swapper/0       : initcall: event_trace_init    38.378461ms
+       400.088000 :    1-swapper/0       : initcall: populate_rootfs   113.471231ms
+       505.376616 :    1-swapper/0       : probe: probe=mtkfb_probe drv=mtkfb(ffffffc0010105c0)    22.939923ms
+       505.609077 :    1-swapper/0       : initcall: mtkfb_init    23.969077ms
+       551.019847 :    1-swapper/0       : probe: probe=platform_drv_probe drv=cldma_modem(ffffffc001020a18)    27.835462ms
+       551.814616 :    1-swapper/0       : initcall: modem_cd_init    28.763154ms
+       589.133693 :    1-swapper/0       : probe: probe=i2c_device_probe drv=mtksmartpa(ffffffc001025aa8)    26.237461ms
+       589.519616 :    1-swapper/0       : probe: probe=platform_drv_probe drv=AudioMTKNXPSPK(ffffffc001025b70)    28.780308ms
+       589.637462 :    1-swapper/0       : initcall: AudDrv_nxpspk_mod_init    29.390077ms
+       703.711924 :    1-swapper/0       : probe: probe=platform_drv_probe drv=soc-audio(ffffffc001051c98)    31.429769ms
+       703.777001 :    1-swapper/0       : initcall: mt_soc_snd_init    31.733462ms
+       763.650616 :    1-swapper/0       : initcall: clk_debug_init    19.293692ms
+       765.576232 :    1-swapper/0       : Kernel_init_done
+      1148.316848 :    1-init            : INIT:early-init
+      1439.252618 :  195-kworker/u16:3   : probe: probe=i2c_device_probe drv=gt1x(ffffffc00103ce68)   694.508925ms
+      1439.828003 :  195-kworker/u16:3   : probe: probe=platform_drv_probe drv=mtk-tpd(ffffffc00103c000)   695.734848ms
+      1456.731695 :  196-kworker/u16:4   : probe: probe=platform_drv_probe drv=battery(ffffffc001040d88)    16.182000ms
+      1456.773695 :  196-kworker/u16:4   : probe: pdev=battery(ffffffc001040ab0)    16.616692ms
+      1456.786464 :  196-kworker/u16:4   : probe: probe=platform_drv_probe drv=battery-dts(ffffffc001040758)    16.641539ms
+      1589.136849 :    1-init            : INIT: on init start
+      1600.591849 :    1-init            : INIT:late-init
+      1600.764157 :    1-init            : INIT:Mount_START
+      2066.942081 :    1-init            : INIT:Mount_END
+      2077.160543 :    1-init            : INIT:post-fs
+      2142.506543 :    1-init            : INIT:post-fs-data
+      2194.952158 :    1-init            : start teei cfg (on post-fs-data)
+      2195.923081 :    1-init            : start teei cfg end (on post-fs-data)
+      2195.992158 :    1-init            : post-fs-data: on modem start
+      2243.031466 :    1-init            : INIT:boot
+      2285.351005 :    1-init            : start teei_daemon (on boot)
+      2286.831005 :    1-init            : start teei_daemon end (on boot)
+      3440.251469 :  296-surfaceflinger  : BOOT_Animation:START
+      8420.002019 :    1-init            : INIT:vold.decrypt=trigger_post_fs_data
+      8505.091404 :    1-init            : INIT:post-fs-data
+      8559.136097 :    1-init            : start teei cfg (on post-fs-data)
+      8560.980481 :    1-init            : start teei cfg end (on post-fs-data)
+      8561.063097 :    1-init            : post-fs-data: on modem start
+      8774.889482 :    1-init            : INIT:vold.decrypt=trigger_restart_framework
+     11422.170257 :  461-main            : Zygote:Preload Start
+     11612.853027 :  460-main            : Zygote:Preload Start
+     13486.969570 :  461-main            : Zygote:Preload 3831 classes in 1932ms
+     13735.121494 :  460-main            : Zygote:Preload 3831 classes in 2096ms
+     14123.655956 :  461-main            : Zygote:Preload 420 obtain resources in 636ms
+     14131.406110 :  461-main            : Zygote:Preload 41 resources in 7ms
+     14212.547187 :  460-main            : Zygote:Preload 420 obtain resources in 476ms
+     14218.988110 :  460-main            : Zygote:Preload 41 resources in 6ms
+     14859.577189 :  460-main            : Zygote:Preload End
+     14986.152420 :  461-main            : Zygote:Preload End
+     15039.281112 : 1114-system_server   : Android:SysServerInit_START
+     15538.992036 : 1114-system_server   : Android:PackageManagerService_Start
+     16009.987268 : 1114-system_server   : Android:PMS_scan_START
+     16106.668115 : 1114-system_server   : Android:PMS_scan_data:/vendor/overlay
+     16856.352886 : 1114-system_server   : Android:PMS_scan_data:/system/framework
+     16907.513040 : 1114-system_server   : Android:PMS_scan_data:/system/priv-app
+     20096.445201 : 1114-system_server   : Android:PMS_scan_data:/system/app
+     22104.855590 : 1114-system_server   : Android:PMS_scan_data:/system/custpack/app/unremoveable/priv-app
+     22624.489899 : 1114-system_server   : Android:PMS_scan_data:/system/custpack/app/unremoveable/withlibs
+     23125.613747 : 1114-system_server   : Android:PMS_scan_data:/system/custpack/app/unremoveable/withoutlibs
+     23367.114440 : 1114-system_server   : Android:PMS_scan_data:/system/custpack/app/removeable/withlibs
+     24853.489520 : 1114-system_server   : Android:PMS_scan_data:/system/vendor/operator/app
+     24877.857905 : 1114-system_server   : Android:PMS_scan_data:/system/plugin
+     24946.768597 : 1114-system_server   : Android:PMS_scan_data:/data/app
+     31413.777228 : 1114-system_server   : Android:PMS_scan_END
+     31871.286075 : 1114-system_server   : Android:PMS_READY
+     34876.966159 : 1114-system_server   : AMS:AMS_READY
+     34932.218313 : 1130-ActivityManager : AP_Init:[broadcast]:[com.mediatek.floatmenu]:[com.mediatek.floatmenu/.FloatMenuReceiver]:pid:1307
+     35015.412006 : 1114-system_server   : AP_Init:[]:[WebViewLoader-armeabi-v7a]:pid:1322
+     35026.794929 : 1114-system_server   : AP_Init:[]:[WebViewLoader-arm64-v8a]:pid:1327
+     35049.502467 : 1114-system_server   : AP_Init:[service]:[com.android.systemui]:[com.android.systemui/.SystemUIService]:pid:1332:(PersistAP)
+     35082.629621 : 1130-ActivityManager : AP_Init:[broadcast]:[com.kingroot.kinguser:service]:[com.kingroot.kinguser/com.kingroot.common.framework.broadcast.KSysBroadcastReceiver]:pid:1338
+     35132.287083 : 1124-Binder_1        : AP_Init:[broadcast]:[com.android.externalstorage]:[com.android.externalstorage/.MountReceiver]:pid:1358
+     36189.955239 : 1114-system_server   : SystemServer:NetworkManagementService systemReady
+     36349.039240 : 1114-system_server   : SystemServer:NetworkStatsService systemReady
+     36589.890087 : 1125-Binder_2        : AP_Init:[broadcast]:[com.mediatek.mtklogger]:[com.mediatek.mtklogger/.framework.LogReceiver]:pid:1702
+     36604.533317 : 1125-Binder_2        : AP_Init:[broadcast]:[cn.ninegame.gamemanager:core]:[cn.ninegame.gamemanager/.system.receiver.BackProcessReceiver]:pid:1710
+     36884.487856 : 1638-Binder_4        : AP_Init:[broadcast]:[android.process.media]:[com.android.providers.media/.MtpReceiver]:pid:1775
+     37306.333627 : 1684-Binder_5        : AP_Init:[broadcast]:[com.mediatek.engineermode]:[com.mediatek.engineermode/.mbim.UsbStateReceiver]:pid:1826
+     37598.193858 : 1125-Binder_2        : AP_Init:[broadcast]:[com.tcl.ota]:[com.tcl.ota/.receiver.DownloadReceiver]:pid:1873
+     39183.536093 : 1968-Binder_7        : AP_Init:[content provider]:[com.tcl.tkeyguard.setting]:[com.tcl.tkeyguard.setting/com.tcl.tkeyguard.provider.TKeyguardProvider]:pid:2104
+     41438.073944 : 1114-system_server   : SystemServer:NetworkPolicyManagerService systemReady
+     41440.213021 : 1684-Binder_5        : AP_Init:[broadcast]:[com.fanli.android.apps]:[com.fanli.android.apps/com.fanli.android.module.receiver.FanliNetworkStatusReceiver]:pid:2303
+     42604.455024 : 1130-ActivityManager : AP_Init:[broadcast]:[com.jrdcom.jrdlogger]:[com.jrdcom.jrdlogger/.WifiReceiver]:pid:2435
+     42700.681716 : 1114-system_server   : SystemServer:ConnectivityService systemReady
+     42718.962409 : 1114-system_server   : AP_Init:[service]:[com.tcl.mie.tlauncher]:[com.tcl.mie.tlauncher/com.tcl.launcher3.unread.NotificationMonitorService]:pid:2451
+     42741.145024 : 1130-ActivityManager : AP_Init:[broadcast]:[com.tencent.mm]:[com.tencent.mm/.booter.BluetoothReceiver]:pid:2461
+     42800.605717 : 1114-system_server   : AP_Init:[service]:[com.sohu.inputmethod.sogou]:[com.sohu.inputmethod.sogou/.SogouIME]:pid:2476
+     42861.309101 : 1125-Binder_2        : AP_Init:[broadcast]:[cn.andouya]:[cn.andouya/cn.xender.basicservice.NetworkChangeReceiver]:pid:2498
+     42890.831640 : 1114-system_server   : AP_Init:[service]:[com.baidu.map.location]:[com.baidu.map.location/.BaiduNetworkLocationService]:pid:2514
+     42923.876871 : 1114-system_server   : SystemServer:PhaseThirdPartyAppsCanStart
+     43044.229102 : 1114-system_server   : AP_Init:[added application]:[com.android.phone]:[com.android.phone]:pid:2544:(PersistAP)
+     43062.703179 : 1114-system_server   : AP_Init:[added application]:[com.mediatek.gba]:[com.mediatek.gba]:pid:2549:(PersistAP)
+     43077.284256 : 1114-system_server   : AP_Init:[added application]:[com.mediatek.ims]:[com.mediatek.ims]:pid:2554:(PersistAP)
+     43090.090410 : 1114-system_server   : AP_Init:[added application]:[com.goodix.fingerprint]:[com.goodix.fingerprint]:pid:2559:(PersistAP)
+     43103.152487 : 1114-system_server   : AP_Init:[added application]:[com.mediatek.wfo.impl]:[com.mediatek.wfo.impl]:pid:2564:(PersistAP)
+     43119.607410 : 1114-system_server   : AP_Init:[added application]:[com.waves.maxxservice]:[com.waves.maxxservice]:pid:2570:(PersistAP)
+     43137.800794 : 1114-system_server   : AP_Init:[added application]:[com.mediatek.voiceextension]:[com.mediatek.voiceextension]:pid:2580:(PersistAP)
+     43155.129641 : 1114-system_server   : AP_Init:[added application]:[com.mediatek.apst.target]:[com.mediatek.apst.target]:pid:2592:(PersistAP)
+     43239.086256 : 1114-system_server   : Android:SysServerInit_END
+     43302.860333 : 1129-android.bg      : AP_Init:[service]:[com.android.printspooler]:[com.android.printspooler/.model.PrintSpoolerService]:pid:2661
+     43814.865488 : 2620-Binder_9        : AP_Init:[content provider]:[com.tcl.mie.tcltheme]:[com.tcl.mie.tcltheme/.client.provider.ThemeProvider]:pid:2713
+     44352.690567 : 2777-AsyncQueryWorke : AP_Init:[content provider]:[android.process.acore]:[com.android.providers.contacts/.CallLogProvider]:pid:2781
+     44868.018799 : 1114-system_server   : AP_Init:[content provider]:[com.android.providers.calendar]:[com.android.providers.calendar/.CalendarProvider2]:pid:2814
+     45804.503262 : 2620-Binder_9        : AP_Init:[broadcast]:[com.ss.android.article.news]:[com.ss.android.article.news/com.ss.android.newmedia.downloads.DownloadReceiver]:pid:2891
+     46484.979572 : 1135-android.display : AP_Launch: com.tcl.mie.tlauncher/com.android.launcher3.Launcher 3306ms
+     46491.152572 : 1130-ActivityManager : AMS:ENABLE_SCREEN
+     47313.091420 :  369-Binder_3        : BOOT_Animation:END
+     47499.583805 : 2624-Binder_C        : AP_Init:[content provider]:[com.ss.android.article.news:push]:[com.ss.android.article.news/com.ss.android.common.util.MultiProcessSharedProvider]:pid:2953
+     47313.112727 : OFF
+----------------------------------------
+================ END of FILE ===============
+

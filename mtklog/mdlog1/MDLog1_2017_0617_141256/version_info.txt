@@ -1,0 +1,3 @@
+Android Version: alps-mp-m0.mp7-V2.3_jrdsh6750.66c.m_P46
+Modem Version: MOLY.LR11.W1539.MD.MP.V25.2.P37 2016/08/25 11:49
+Project:JRDSH6750_66_M(LWCTG)

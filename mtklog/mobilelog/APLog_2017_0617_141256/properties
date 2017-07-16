@@ -1,0 +1,1154 @@
+<< /data/misc/mblog/inter_sd_folder >>:
+APLog_2017_0617_141256 0
+================ END of FILE ===============
+
+<< /data/misc/mblog/mblog_config >>:
+logpath=internal_sd
+autostart=0
+logsize=1000
+totallogsize=5000
+AndroidLog=1
+KernelLog=1
+MD32Log=0
+ATFLog=1
+SCPLog=1
+================ END of FILE ===============
+
+<< /data/misc/mblog/mblog_history >>:
+2017:03:22 07:43:44 =====MOBILELOG START=======(1828)
+2017:03:22 07:43:44 maybe not first start, and property is 0(1828)
+2017:03:22 07:43:44 boot mode is 0(1828)
+2017:03:22 07:43:44 create configure file done(1828)
+2017:03:22 07:43:44 no start logging(1828)
+2017:03:25 16:16:43 =====MOBILELOG START=======(429)
+2017:03:25 16:16:44 boot mode is 0(429)
+2017:03:25 16:16:44 no start logging(429)
+2017:03:27 09:36:47 =====MOBILELOG START=======(423)
+2017:03:27 09:36:47 boot mode is 0(423)
+2017:03:27 09:36:47 no start logging(423)
+2017:03:27 19:01:05 =====MOBILELOG START=======(427)
+2017:03:27 19:01:06 boot mode is 0(427)
+2017:03:27 19:01:06 no start logging(427)
+2017:04:01 07:41:11 =====MOBILELOG START=======(425)
+2017:04:01 07:41:11 boot mode is 0(425)
+2017:04:01 07:41:11 no start logging(425)
+2017:04:02 14:18:06 =====MOBILELOG START=======(424)
+2017:04:02 14:18:07 boot mode is 0(424)
+2017:04:02 14:18:07 no start logging(424)
+2017:04:03 10:29:43 =====MOBILELOG START=======(427)
+2017:04:03 10:29:44 boot mode is 0(427)
+2017:04:03 10:29:44 no start logging(427)
+2017:04:04 05:51:37 =====MOBILELOG START=======(427)
+2017:04:04 05:51:37 boot mode is 0(427)
+2017:04:04 05:51:37 no start logging(427)
+2017:04:04 12:38:39 =====MOBILELOG START=======(429)
+2017:04:04 12:38:39 boot mode is 0(429)
+2017:04:04 12:38:40 no start logging(429)
+2017:04:04 18:26:54 =====MOBILELOG START=======(426)
+2017:04:04 18:26:54 boot mode is 0(426)
+2017:04:04 18:26:55 no start logging(426)
+2017:04:08 07:32:25 =====MOBILELOG START=======(433)
+2017:04:08 07:32:25 boot mode is 0(433)
+2017:04:08 07:32:25 no start logging(433)
+2017:04:10 06:06:39 =====MOBILELOG START=======(433)
+2017:04:10 06:06:39 boot mode is 0(433)
+2017:04:10 06:06:40 no start logging(433)
+2017:04:12 00:43:07 =====MOBILELOG START=======(432)
+2017:04:12 00:43:07 boot mode is 0(432)
+2017:04:12 00:43:07 no start logging(432)
+2017:04:14 22:17:53 =====MOBILELOG START=======(430)
+2017:04:14 22:17:53 boot mode is 0(430)
+2017:04:14 22:17:53 no start logging(430)
+2017:04:15 08:23:38 =====MOBILELOG START=======(431)
+2017:04:15 08:23:38 boot mode is 0(431)
+2017:04:15 08:23:39 no start logging(431)
+2017:04:16 08:42:56 =====MOBILELOG START=======(431)
+2017:04:16 08:42:56 boot mode is 0(431)
+2017:04:16 08:42:56 no start logging(431)
+2017:04:17 23:59:37 =====MOBILELOG START=======(432)
+2017:04:17 23:59:37 boot mode is 0(432)
+2017:04:17 23:59:38 no start logging(432)
+2017:04:18 06:00:24 =====MOBILELOG START=======(431)
+2017:04:18 06:00:25 boot mode is 0(431)
+2017:04:18 06:00:25 no start logging(431)
+2017:04:19 14:17:39 =====MOBILELOG START=======(431)
+2017:04:19 14:17:40 boot mode is 0(431)
+2017:04:19 14:17:40 no start logging(431)
+2017:04:21 06:43:35 =====MOBILELOG START=======(430)
+2017:04:21 06:43:35 boot mode is 0(430)
+2017:04:21 06:43:35 no start logging(430)
+2017:04:22 22:34:02 =====MOBILELOG START=======(434)
+2017:04:22 22:34:02 boot mode is 0(434)
+2017:04:22 22:34:02 no start logging(434)
+2017:04:26 07:24:04 =====MOBILELOG START=======(433)
+2017:04:26 07:24:05 boot mode is 0(433)
+2017:04:26 07:24:05 no start logging(433)
+2017:05:01 08:23:09 =====MOBILELOG START=======(432)
+2017:05:01 08:23:09 boot mode is 0(432)
+2017:05:01 08:23:09 no start logging(432)
+2017:05:01 11:56:03 new client(6) conected!(432)
+2017:05:01 11:56:04 recv set_storage_path,/storage/emulated/0 from 6(432)
+2017:05:01 11:56:04 thread 696 handle msg(432)
+2017:05:01 11:56:04 recv start from 6(432)
+2017:05:01 11:56:04 thread 699 handle msg(432)
+2017:05:01 11:56:04 'start' mblog(432)
+2017:05:01 11:56:04 log dir: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0501_115604/(432)
+2017:05:01 11:56:04 open /data/misc/mblog/inter_sd_folder faild No such file or directory(432)
+2017:05:01 11:56:04 set cur path: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0501_115604/(432)
+2017:05:01 11:56:04 create thread 713 do copy dump(432)
+2017:05:01 11:56:04 change ioprio, default:0,0(432)
+2017:05:01 11:56:04 open tagmap done(432)
+2017:05:01 11:56:04 open /dev/scp fail(No such file or directory)(432)
+2017:05:01 11:56:04 set main_log rotate size: 44521 KB(prio:5/23)(432)
+2017:05:01 11:56:04 set crash_log rotate size: 44521 KB(prio:5/23)(432)
+2017:05:01 11:56:04 set sys_log rotate size: 26713 KB(prio:3/23)(432)
+2017:05:01 11:56:04 set radio_log rotate size: 26713 KB(prio:3/23)(432)
+2017:05:01 11:56:04 set events_log rotate size: 8904 KB(prio:1/23)(432)
+2017:05:01 11:56:04 set kernel_log rotate size: 44521 KB(prio:5/23)(432)
+2017:05:01 11:56:04 set atf_log rotate size: 8904 KB(prio:1/23)(432)
+2017:05:01 11:56:04 dump /data/misc/mblog/inter_sd_folder(432)
+2017:05:01 11:56:04 dump /data/misc/mblog/mblog_config(432)
+2017:05:01 11:56:04 dump /data/misc/mblog/mblog_history(432)
+2017:05:01 11:56:04 dump /proc/bootprof(432)
+2017:05:01 11:56:04 dump /proc/cmdline(432)
+2017:05:01 11:56:04 logd_sock: 19(432)
+2017:05:01 11:56:04 init debug(432)
+2017:05:01 11:56:04 read thread 726(432)
+2017:05:01 11:56:04 write thread 727(432)
+2017:05:01 11:56:04 dump /system/data/misc/ProjectConfig.mk(432)
+2017:05:01 11:56:05 dump /proc/last_kmsg(432)
+2017:05:01 11:56:05 recv autostart=1 from 6(432)
+2017:05:01 11:56:05 thread 739 handle msg(432)
+2017:05:01 11:56:05 thread 739 comes(432)
+2017:05:01 11:56:05 thread 739 ends(432)
+2017:05:01 11:56:05 recv autostart=1 from 6(432)
+2017:05:01 11:56:05 thread 741 handle msg(432)
+2017:05:01 11:56:05 thread 741 comes(432)
+2017:05:01 11:56:05 thread 741 ends(432)
+2017:05:01 11:56:05 recv autostart=1 from 6(432)
+2017:05:01 11:56:05 thread 742 handle msg(432)
+2017:05:01 11:56:05 thread 742 comes(432)
+2017:05:01 11:56:05 thread 742 ends(432)
+2017:05:01 11:56:05 recv autostart=1 from 6(432)
+2017:05:01 11:56:05 thread 744 handle msg(432)
+2017:05:01 11:56:05 thread 744 comes(432)
+2017:05:01 11:56:05 thread 744 ends(432)
+2017:05:01 11:56:05 recv autostart=1 from 6(432)
+2017:05:01 11:56:05 thread 745 handle msg(432)
+2017:05:01 11:56:05 thread 745 comes(432)
+2017:05:01 11:56:05 thread 745 ends(432)
+2017:05:01 11:56:05 dump sys property(432)
+2017:05:01 11:56:05 copydump over(432)
+2017:05:01 12:07:08 atf_log rotate(432)
+2017:05:01 12:18:32 main_log rotate(432)
+2017:05:01 12:29:50 sys_log rotate(432)
+2017:05:01 12:35:10 main_log rotate(432)
+2017:05:01 12:35:20 statfs(/storage/emulated/0/mtklog/mobilelog/APLog_2017_0501_115604/): Transport endpoint is not connected(432)
+2017:05:01 12:35:20 storage check fail,mobile_log_d.wr exit!(432)
+2017:05:01 12:35:20 stop logging...(432)
+2017:05:01 12:35:20 deinit debug(432)
+2017:05:01 12:35:20 mobile_log_d.rd exit!(432)
+2017:05:01 16:37:33 =====MOBILELOG START=======(432)
+2017:05:01 16:37:34 boot mode is 0(432)
+2017:05:01 16:37:34 set cur path: /data/log_temp/boot/(432)
+2017:05:01 16:37:34 open tagmap done(432)
+2017:05:01 16:37:34 open /dev/scp fail(No such file or directory)(432)
+2017:05:01 16:37:34 set main_log rotate size: 4452 KB(prio:5/23)(432)
+2017:05:01 16:37:34 set crash_log rotate size: 4452 KB(prio:5/23)(432)
+2017:05:01 16:37:34 set sys_log rotate size: 2671 KB(prio:3/23)(432)
+2017:05:01 16:37:34 set radio_log rotate size: 2671 KB(prio:3/23)(432)
+2017:05:01 16:37:34 set events_log rotate size: 890 KB(prio:1/23)(432)
+2017:05:01 16:37:34 set kernel_log rotate size: 4452 KB(prio:5/23)(432)
+2017:05:01 16:37:34 set atf_log rotate size: 890 KB(prio:1/23)(432)
+2017:05:01 16:37:35 logd_sock: 18(432)
+2017:05:01 16:37:35 init debug(432)
+2017:05:01 16:37:35 read thread 715(432)
+2017:05:01 16:37:35 write thread 716(432)
+2017:05:01 16:38:06 main_log rotate(432)
+2017:05:01 16:38:19 radio_log rotate(432)
+2017:05:01 16:38:42 radio_log rotate(432)
+2017:05:01 16:38:44 new client(19) conected!(432)
+2017:05:01 16:38:44 recv set_storage_path,/storage/emulated/0 from 19(432)
+2017:05:01 16:38:44 thread 4227 handle msg(432)
+2017:05:01 16:38:44 recv copy from 19(432)
+2017:05:01 16:38:44 thread 4229 handle msg(432)
+2017:05:01 16:38:44 log dir: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0501_163844/(432)
+2017:05:01 16:38:44 set cur path: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0501_163844/(432)
+2017:05:01 16:38:44 create thread 4231 do copy dump(432)
+2017:05:01 16:38:44 change ioprio, default:0,0(432)
+2017:05:01 16:38:44 set main_log rotate size: 44521 KB(prio:5/23)(432)
+2017:05:01 16:38:44 set crash_log rotate size: 44521 KB(prio:5/23)(432)
+2017:05:01 16:38:44 set sys_log rotate size: 26713 KB(prio:3/23)(432)
+2017:05:01 16:38:44 set radio_log rotate size: 26713 KB(prio:3/23)(432)
+2017:05:01 16:38:44 set events_log rotate size: 8904 KB(prio:1/23)(432)
+2017:05:01 16:38:44 set kernel_log rotate size: 44521 KB(prio:5/23)(432)
+2017:05:01 16:38:44 set atf_log rotate size: 8904 KB(prio:1/23)(432)
+2017:05:01 16:38:46 copy /data/log_temp/boot/ done(432)
+2017:05:01 16:38:46 dump /data/misc/mblog/inter_sd_folder(432)
+2017:05:01 16:38:46 dump /data/misc/mblog/mblog_config(432)
+2017:05:01 16:38:46 dump /data/misc/mblog/mblog_history(432)
+2017:05:01 16:38:46 dump /proc/bootprof(432)
+2017:05:01 16:38:46 dump /proc/cmdline(432)
+2017:05:01 16:38:47 dump /system/data/misc/ProjectConfig.mk(432)
+2017:05:01 16:38:47 dump /proc/last_kmsg(432)
+2017:05:01 16:38:47 dump sys property(432)
+2017:05:01 16:38:47 copydump over(432)
+2017:05:01 17:01:41 atf_log rotate(432)
+2017:05:01 17:15:01 main_log rotate(432)
+2017:05:01 17:19:59 atf_log rotate(432)
+2017:05:01 17:28:06 sys_log rotate(432)
+2017:05:01 17:44:57 atf_log rotate(432)
+2017:05:01 17:53:46 statfs(/storage/emulated/0/mtklog/mobilelog/APLog_2017_0501_163844/): Transport endpoint is not connected(432)
+2017:05:01 17:53:46 storage check fail,mobile_log_d.wr exit!(432)
+2017:05:01 17:53:46 stop logging...(432)
+2017:05:01 17:53:46 deinit debug(432)
+2017:05:01 17:53:47 mobile_log_d.rd exit!(432)
+2017:05:01 19:53:53 =====MOBILELOG START=======(434)
+2017:05:01 19:53:53 boot mode is 0(434)
+2017:05:01 19:53:53 set cur path: /data/log_temp/boot/(434)
+2017:05:01 19:53:53 open tagmap done(434)
+2017:05:01 19:53:53 open /dev/scp fail(No such file or directory)(434)
+2017:05:01 19:53:53 set main_log rotate size: 4452 KB(prio:5/23)(434)
+2017:05:01 19:53:53 set crash_log rotate size: 4452 KB(prio:5/23)(434)
+2017:05:01 19:53:53 set sys_log rotate size: 2671 KB(prio:3/23)(434)
+2017:05:01 19:53:53 set radio_log rotate size: 2671 KB(prio:3/23)(434)
+2017:05:01 19:53:53 set events_log rotate size: 890 KB(prio:1/23)(434)
+2017:05:01 19:53:53 set kernel_log rotate size: 4452 KB(prio:5/23)(434)
+2017:05:01 19:53:53 set atf_log rotate size: 890 KB(prio:1/23)(434)
+2017:05:01 19:53:54 logd_sock: 18(434)
+2017:05:01 19:53:54 init debug(434)
+2017:05:01 19:53:54 read thread 720(434)
+2017:05:01 19:53:54 write thread 721(434)
+2017:05:01 19:54:26 main_log rotate(434)
+2017:05:01 19:54:38 radio_log rotate(434)
+2017:05:01 19:54:53 radio_log rotate(434)
+2017:05:01 19:55:00 sys_log rotate(434)
+2017:05:01 19:55:01 main_log rotate(434)
+2017:05:01 19:55:15 new client(19) conected!(434)
+2017:05:01 19:55:15 recv set_storage_path,/storage/emulated/0 from 19(434)
+2017:05:01 19:55:15 thread 5077 handle msg(434)
+2017:05:01 19:55:15 recv copy from 19(434)
+2017:05:01 19:55:15 thread 5078 handle msg(434)
+2017:05:01 19:55:15 log dir: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0501_195515/(434)
+2017:05:01 19:55:15 set cur path: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0501_195515/(434)
+2017:05:01 19:55:15 create thread 5079 do copy dump(434)
+2017:05:01 19:55:15 change ioprio, default:0,0(434)
+2017:05:01 19:55:15 set main_log rotate size: 44521 KB(prio:5/23)(434)
+2017:05:01 19:55:15 set crash_log rotate size: 44521 KB(prio:5/23)(434)
+2017:05:01 19:55:15 set sys_log rotate size: 26713 KB(prio:3/23)(434)
+2017:05:01 19:55:15 set radio_log rotate size: 26713 KB(prio:3/23)(434)
+2017:05:01 19:55:15 set events_log rotate size: 8904 KB(prio:1/23)(434)
+2017:05:01 19:55:15 set kernel_log rotate size: 44521 KB(prio:5/23)(434)
+2017:05:01 19:55:15 set atf_log rotate size: 8904 KB(prio:1/23)(434)
+2017:05:01 19:55:17 copy /data/log_temp/boot/ done(434)
+2017:05:01 19:55:18 dump /data/misc/mblog/inter_sd_folder(434)
+2017:05:01 19:55:18 dump /data/misc/mblog/mblog_config(434)
+2017:05:01 19:55:18 dump /data/misc/mblog/mblog_history(434)
+2017:05:01 19:55:18 dump /proc/bootprof(434)
+2017:05:01 19:55:18 dump /proc/cmdline(434)
+2017:05:01 19:55:18 dump /system/data/misc/ProjectConfig.mk(434)
+2017:05:01 19:55:18 dump /proc/last_kmsg(434)
+2017:05:01 19:55:18 dump sys property(434)
+2017:05:01 19:55:18 copydump over(434)
+2017:05:01 20:08:08 main_log rotate(434)
+2017:05:01 20:15:27 recv deep_stop from 19(434)
+2017:05:01 20:15:27 thread 15614 handle msg(434)
+2017:05:01 20:15:27 thread 15614 comes(434)
+2017:05:01 20:15:27 stop logging...(434)
+2017:05:01 20:15:27 deinit debug(434)
+2017:05:01 20:15:27 thread 15614 ends(434)
+2017:05:01 20:15:27 flush mobilelog buffer before stopped...(434)
+2017:05:01 20:15:27 mobile_log_d.wr exit!(434)
+2017:05:01 20:15:27 mobile_log_d.rd exit!(434)
+2017:05:01 20:45:05 recv null from client 19(Success)(434)
+2017:05:01 20:45:05 close client 19(434)
+2017:05:01 20:45:06 new client(8) conected!(434)
+2017:05:02 09:21:51 recv null from client 8(No such file or directory)(434)
+2017:05:02 09:21:51 close client 8(434)
+2017:05:02 09:21:52 new client(8) conected!(434)
+2017:05:02 10:34:00 recv null from client 8(No such file or directory)(434)
+2017:05:02 10:34:00 close client 8(434)
+2017:05:02 10:34:28 new client(8) conected!(434)
+2017:05:02 13:22:34 recv null from client 8(No such file or directory)(434)
+2017:05:02 13:22:34 close client 8(434)
+2017:05:02 13:23:02 new client(8) conected!(434)
+2017:05:02 14:02:48 recv null from client 8(No such file or directory)(434)
+2017:05:02 14:02:48 close client 8(434)
+2017:05:02 14:02:49 new client(8) conected!(434)
+2017:05:02 15:38:16 recv null from client 8(No such file or directory)(434)
+2017:05:02 15:38:16 close client 8(434)
+2017:05:02 15:38:27 new client(8) conected!(434)
+2017:05:02 16:57:01 recv null from client 8(No such file or directory)(434)
+2017:05:02 16:57:01 close client 8(434)
+2017:05:02 16:57:02 new client(8) conected!(434)
+2017:05:02 18:20:11 recv null from client 8(No such file or directory)(434)
+2017:05:02 18:20:11 close client 8(434)
+2017:05:02 18:20:13 new client(8) conected!(434)
+2017:05:02 19:18:26 recv null from client 8(No such file or directory)(434)
+2017:05:02 19:18:27 close client 8(434)
+2017:05:02 19:18:47 new client(8) conected!(434)
+2017:05:02 20:34:03 recv null from client 8(No such file or directory)(434)
+2017:05:02 20:34:04 close client 8(434)
+2017:05:02 20:34:05 new client(8) conected!(434)
+2017:05:02 21:15:50 =====MOBILELOG START=======(434)
+2017:05:02 21:15:50 boot mode is 0(434)
+2017:05:02 21:15:50 no start logging(434)
+2017:05:02 23:53:19 =====MOBILELOG START=======(432)
+2017:05:02 23:53:19 boot mode is 0(432)
+2017:05:02 23:53:20 no start logging(432)
+2017:05:03 09:04:38 =====MOBILELOG START=======(434)
+2017:05:03 09:04:39 boot mode is 0(434)
+2017:05:03 09:04:39 no start logging(434)
+2017:05:05 06:16:14 =====MOBILELOG START=======(430)
+2017:05:05 06:16:15 boot mode is 0(430)
+2017:05:05 06:16:15 no start logging(430)
+2017:05:05 10:40:23 =====MOBILELOG START=======(431)
+2017:05:05 10:40:24 boot mode is 0(431)
+2017:05:05 10:40:24 no start logging(431)
+2017:05:07 11:53:11 =====MOBILELOG START=======(433)
+2017:05:07 11:53:11 boot mode is 0(433)
+2017:05:07 11:53:11 no start logging(433)
+2017:05:07 13:45:06 =====MOBILELOG START=======(430)
+2017:05:07 13:45:06 boot mode is 0(430)
+2017:05:07 13:45:06 no start logging(430)
+2017:05:10 23:52:40 =====MOBILELOG START=======(432)
+2017:05:10 23:52:41 boot mode is 0(432)
+2017:05:10 23:52:41 no start logging(432)
+2017:05:11 13:38:02 =====MOBILELOG START=======(432)
+2017:05:11 13:38:02 boot mode is 0(432)
+2017:05:11 13:38:02 no start logging(432)
+2017:05:13 07:01:44 =====MOBILELOG START=======(433)
+2017:05:13 07:01:44 boot mode is 0(433)
+2017:05:13 07:01:44 no start logging(433)
+2017:05:13 10:15:37 =====MOBILELOG START=======(430)
+2017:05:13 10:15:38 boot mode is 0(430)
+2017:05:13 10:15:38 no start logging(430)
+2017:05:13 12:05:26 =====MOBILELOG START=======(432)
+2017:05:13 12:05:27 boot mode is 0(432)
+2017:05:13 12:05:27 no start logging(432)
+2017:05:14 08:24:10 =====MOBILELOG START=======(434)
+2017:05:14 08:24:11 boot mode is 0(434)
+2017:05:14 08:24:11 no start logging(434)
+2017:05:15 08:20:25 =====MOBILELOG START=======(430)
+2017:05:15 08:20:25 boot mode is 0(430)
+2017:05:15 08:20:25 no start logging(430)
+2017:05:15 09:38:23 =====MOBILELOG START=======(434)
+2017:05:15 09:38:24 boot mode is 0(434)
+2017:05:15 09:38:24 no start logging(434)
+2017:05:15 15:25:48 =====MOBILELOG START=======(431)
+2017:05:15 15:25:48 boot mode is 0(431)
+2017:05:15 15:25:48 no start logging(431)
+2017:05:18 11:38:44 =====MOBILELOG START=======(433)
+2017:05:18 11:38:44 boot mode is 0(433)
+2017:05:18 11:38:44 no start logging(433)
+2017:05:20 12:16:41 =====MOBILELOG START=======(430)
+2017:05:20 12:16:42 boot mode is 0(430)
+2017:05:20 12:16:42 no start logging(430)
+2016:01:01 11:15:57 =====MOBILELOG START=======(431)
+2016:01:01 11:15:57 boot mode is 0(431)
+2016:01:01 11:15:57 no start logging(431)
+2017:05:23 09:02:40 =====MOBILELOG START=======(430)
+2017:05:23 09:02:41 boot mode is 0(430)
+2017:05:23 09:02:41 no start logging(430)
+2017:05:23 20:59:48 =====MOBILELOG START=======(432)
+2017:05:23 20:59:48 boot mode is 0(432)
+2017:05:23 20:59:49 no start logging(432)
+2017:05:24 08:28:45 =====MOBILELOG START=======(430)
+2017:05:24 08:28:45 boot mode is 0(430)
+2017:05:24 08:28:45 no start logging(430)
+2017:05:24 08:59:06 =====MOBILELOG START=======(431)
+2017:05:24 08:59:06 boot mode is 0(431)
+2017:05:24 08:59:06 no start logging(431)
+2017:05:24 09:42:22 =====MOBILELOG START=======(433)
+2017:05:24 09:42:22 boot mode is 0(433)
+2017:05:24 09:42:22 no start logging(433)
+2017:05:28 14:39:40 =====MOBILELOG START=======(433)
+2017:05:28 14:39:40 boot mode is 0(433)
+2017:05:28 14:39:40 no start logging(433)
+2017:06:01 01:03:13 =====MOBILELOG START=======(434)
+2017:06:01 01:03:13 boot mode is 0(434)
+2017:06:01 01:03:13 no start logging(434)
+2017:06:01 01:03:31 =====MOBILELOG START=======(432)
+2017:06:01 01:03:31 boot mode is 0(432)
+2017:06:01 01:03:31 no start logging(432)
+2017:06:01 01:04:07 =====MOBILELOG START=======(432)
+2017:06:01 01:04:07 boot mode is 0(432)
+2017:06:01 01:04:07 no start logging(432)
+2017:06:07 06:19:08 =====MOBILELOG START=======(434)
+2017:06:07 06:19:09 boot mode is 0(434)
+2017:06:07 06:19:09 no start logging(434)
+2017:06:08 08:45:49 =====MOBILELOG START=======(432)
+2017:06:08 08:45:49 boot mode is 0(432)
+2017:06:08 08:45:49 no start logging(432)
+2017:06:10 08:38:25 =====MOBILELOG START=======(430)
+2017:06:10 08:38:26 boot mode is 0(430)
+2017:06:10 08:38:26 no start logging(430)
+2017:06:11 08:22:59 =====MOBILELOG START=======(432)
+2017:06:11 08:22:59 boot mode is 0(432)
+2017:06:11 08:22:59 no start logging(432)
+2017:06:12 06:36:03 =====MOBILELOG START=======(429)
+2017:06:12 06:36:04 boot mode is 0(429)
+2017:06:12 06:36:04 no start logging(429)
+2017:06:14 15:51:15 new client(6) conected!(429)
+2017:06:15 00:17:14 recv null from client 6(Success)(429)
+2017:06:15 00:17:14 close client 6(429)
+2017:06:15 00:17:15 new client(6) conected!(429)
+2017:06:15 09:12:56 =====MOBILELOG START=======(432)
+2017:06:15 09:12:56 boot mode is 0(432)
+2017:06:15 09:12:56 no start logging(432)
+2017:06:17 13:07:32 new client(6) conected!(432)
+2017:06:17 13:39:44 recv set_storage_path,/storage/emulated/0 from 6(432)
+2017:06:17 13:39:44 thread 19631 handle msg(432)
+2017:06:17 13:39:44 recv deep_start from 6(432)
+2017:06:17 13:39:44 thread 19632 handle msg(432)
+2017:06:17 13:39:44 'deepstart' mblog(432)
+2017:06:17 13:39:44 log dir: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0617_133944/(432)
+2017:06:17 13:39:44 APLog_2017_0501_115604 not in sd anymore(432)
+2017:06:17 13:39:44 APLog_2017_0501_163844 not in sd anymore(432)
+2017:06:17 13:39:44 APLog_2017_0501_195515 not in sd anymore(432)
+2017:06:17 13:39:44 delete APLog_2017_0501_115604 (no exist)(432)
+2017:06:17 13:39:44 delete APLog_2017_0501_163844 (no exist)(432)
+2017:06:17 13:39:44 delete APLog_2017_0501_195515 (no exist)(432)
+2017:06:17 13:39:44 set cur path: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0617_133944/(432)
+2017:06:17 13:39:44 create thread 19634 do copy dump(432)
+2017:06:17 13:39:44 open tagmap done(432)
+2017:06:17 13:39:44 change ioprio, default:0,0(432)
+2017:06:17 13:39:44 open /dev/scp fail(No such file or directory)(432)
+2017:06:17 13:39:44 set main_log rotate size: 44521 KB(prio:5/23)(432)
+2017:06:17 13:39:44 set crash_log rotate size: 44521 KB(prio:5/23)(432)
+2017:06:17 13:39:44 set sys_log rotate size: 26713 KB(prio:3/23)(432)
+2017:06:17 13:39:44 set radio_log rotate size: 26713 KB(prio:3/23)(432)
+2017:06:17 13:39:44 set events_log rotate size: 8904 KB(prio:1/23)(432)
+2017:06:17 13:39:44 set kernel_log rotate size: 44521 KB(prio:5/23)(432)
+2017:06:17 13:39:44 set atf_log rotate size: 8904 KB(prio:1/23)(432)
+2017:06:17 13:39:44 dump /data/misc/mblog/inter_sd_folder(432)
+2017:06:17 13:39:44 dump /data/misc/mblog/mblog_config(432)
+2017:06:17 13:39:44 dump /data/misc/mblog/mblog_history(432)
+2017:06:17 13:39:44 dump /proc/bootprof(432)
+2017:06:17 13:39:44 dump /proc/cmdline(432)
+2017:06:17 13:39:44 logd_sock: 19(432)
+2017:06:17 13:39:44 write thread 19659(432)
+2017:06:17 13:39:44 init debug(432)
+2017:06:17 13:39:44 read thread 19658(432)
+2017:06:17 13:39:45 thread 19632 comes(432)
+2017:06:17 13:39:45 thread 19632 ends(432)
+2017:06:17 13:39:45 dump /system/data/misc/ProjectConfig.mk(432)
+2017:06:17 13:39:45 dump /proc/last_kmsg(432)
+2017:06:17 13:39:45 dump sys property(432)
+2017:06:17 13:39:45 copydump over(432)
+2017:06:17 14:10:04 main_log rotate(432)
+2017:06:17 14:12:48 recv deep_stop from 6(432)
+2017:06:17 14:12:48 thread 29051 handle msg(432)
+2017:06:17 14:12:48 thread 29051 comes(432)
+2017:06:17 14:12:48 thread 29051 ends(432)
+2017:06:17 14:12:48 stop logging...(432)
+2017:06:17 14:12:48 flush mobilelog buffer before stopped...(432)
+2017:06:17 14:12:48 deinit debug(432)
+2017:06:17 14:12:48 mobile_log_d.wr exit!(432)
+2017:06:17 14:12:48 mobile_log_d.rd exit!(432)
+2017:06:17 14:12:56 recv set_storage_path,/storage/emulated/0 from 6(432)
+2017:06:17 14:12:56 thread 29294 handle msg(432)
+2017:06:17 14:12:56 recv deep_start from 6(432)
+2017:06:17 14:12:56 thread 29296 handle msg(432)
+2017:06:17 14:12:56 'deepstart' mblog(432)
+2017:06:17 14:12:56 log dir: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0617_141256/(432)
+2017:06:17 14:12:56 APLog_2017_0617_133944 not in sd anymore(432)
+2017:06:17 14:12:56 delete APLog_2017_0617_133944 (no exist)(432)
+2017:06:17 14:12:56 set cur path: /storage/emulated/0/mtklog/mobilelog/APLog_2017_0617_141256/(432)
+2017:06:17 14:12:56 create thread 29297 do copy dump(432)
+2017:06:17 14:12:56 change ioprio, default:0,0(432)
+2017:06:17 14:12:56 open /dev/scp fail(No such file or directory)(432)
+2017:06:17 14:12:56 set main_log rotate size: 44521 KB(prio:5/23)(432)
+2017:06:17 14:12:56 set crash_log rotate size: 44521 KB(prio:5/23)(432)
+2017:06:17 14:12:56 set sys_log rotate size: 26713 KB(prio:3/23)(432)
+2017:06:17 14:12:56 set radio_log rotate size: 26713 KB(prio:3/23)(432)
+2017:06:17 14:12:56 set events_log rotate size: 8904 KB(prio:1/23)(432)
+2017:06:17 14:12:56 set kernel_log rotate size: 44521 KB(prio:5/23)(432)
+2017:06:17 14:12:56 set atf_log rotate size: 8904 KB(prio:1/23)(432)
+2017:06:17 14:12:56 dump /data/misc/mblog/inter_sd_folder(432)
+2017:06:17 14:12:56 dump /data/misc/mblog/mblog_config(432)
+================ END of FILE ===============
+
+<< system properties >>
+[af.ril.hd.voice.status]: []
+[af.ril.speech.codec.info]: []
+[af.modem_1.status]: [0]
+[af.rf_info]: [0]
+[af.rf_mode]: [0]
+[ro.sf.hwrotation]: [0]
+[ro.sf.lcd_density]: [320]
+[ro.adb.secure]: [1]
+[ro.c2k.irat.support]: [1]
+[ro.com.google.clientidbase]: [android-alcatel]
+[ro.com.google.clientidbase.am]: [android-alcatel]
+[ro.com.google.clientidbase.ms]: [android-alcatel]
+[ro.com.google.clientidbase.yt]: [android-alcatel]
+[ro.com.google.clientidbase.gmm]: [android-alcatel]
+[ro.com.android.mobiledata]: [false]
+[ro.def.software.svn]: [010 01]
+[ro.frp.pst]: [/dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/frp]
+[ro.mtk.c2k.om.mode]: [cllwtg]
+[ro.mtk.c2k.slot2.support]: [1]
+[ro.nfc.port]: ["I2C"]
+[ro.sys.usb.mtp.whql.enable]: [0]
+[ro.sys.usb.bicr]: [yes]
+[ro.sys.usb.storage.type]: [mtp]
+[ro.sys.usb.charging.only]: [yes]
+[ro.tct.sys.ver]: [Y1ADZZ40CH20]
+[ro.tct.curef]: [580-2ALCCN0-A]
+[ro.tct.trace.bt]: [28:BE:03:51:94:2C]
+[ro.tct.trace.bsn]: [J8KE02BBFLZ000A]
+[ro.tct.trace.pth]: [15]
+[ro.tct.trace.pts]: [A2S]
+[ro.tct.trace.wifi]: [00:0A:F5:8E:6D:AC]
+[ro.tct.md1dsp.ver]: [E1AD4040CH00]
+[ro.tct.md1img.ver]: [D1AD4040CH00]
+[ro.tct.md3img.ver]: [G1AD4040CH00]
+[ro.tct.md1arm7.ver]: [F1AD4040CH00]
+[ro.tct.recovery.ver]: [R1AD4040CH00]
+[ro.tct.preloader.ver]: [P1AD4040CH00]
+[ro.tct.bootloader.ver]: [U1AD4040CH00]
+[ro.boot.mode]: [normal]
+[ro.boot.name]: [android]
+[ro.boot.hardware]: [mt6755]
+[ro.boot.serialno]: [UO4T9LRWLNRKSOAY]
+[ro.boot.bootreason]: [power_key]
+[ro.boot.verifiedbootstate]: [green]
+[ro.cdma.cw.enable]: [*74]
+[ro.cdma.cw.disable]: [*740]
+[ro.cdma.cfb.enable]: [*90]
+[ro.cdma.cfb.disable]: [*900]
+[ro.cdma.cfu.enable]: [*72]
+[ro.cdma.cfu.disable]: [*720]
+[ro.cdma.cfdf.enable]: [*68]
+[ro.cdma.cfdf.disable]: [*680]
+[ro.cdma.cfnr.enable]: [*92]
+[ro.cdma.cfnr.disable]: [*920]
+[ro.cdma.cfall.disable]: [*730]
+[ro.wifi.channels]: []
+[ro.wlan.mtk.wifi.5g]: [1]
+[ro.allow.mock.location]: [0]
+[ro.audio.silent]: [0]
+[ro.board.platform]: [mt6750]
+[ro.build.id]: [MRA58K]
+[ro.build.date]: [Thu Aug 25 13:08:21 CST 2016]
+[ro.build.date.utc]: [1472101701]
+[ro.build.host]: [aclgcl-ubnt210]
+[ro.build.tags]: [release-keys]
+[ro.build.type]: [user]
+[ro.build.user]: [zxliu]
+[ro.build.flavor]: [full_idol4_mini-user]
+[ro.build.display.id]: [MRA58K release-keys]
+[ro.build.product]: [idol4_mini]
+[ro.build.version.sdk]: [23]
+[ro.build.version.base_os]: []
+[ro.build.version.release]: [6.0]
+[ro.build.version.codename]: [REL]
+[ro.build.version.incremental]: [v1AD4-0]
+[ro.build.version.preview_sdk]: [0]
+[ro.build.version.all_codenames]: [REL]
+[ro.build.version.security_patch]: [2016-06-01]
+[ro.build.description]: [full_idol4_mini-user 6.0 MRA58K v1AD4-0 release-keys]
+[ro.build.fingerprint]: [TCL/idol4_mini/idol4_mini:6.0/MRA58K/v1AD4-0:user/release-keys]
+[ro.build.characteristics]: [default]
+[ro.mount.fs]: [EXT4]
+[ro.perso.test]: [true]
+[ro.camera.sound.forced]: [0]
+[ro.config.ringtone]: [Dots-1.ogg]
+[ro.config.smartcard.log]: [1]
+[ro.config.alarm_alert]: [Forest.ogg]
+[ro.config.power_on_general]: [Jumping-on.mp3]
+[ro.config.key_switch_on_off]: [1]
+[ro.config.power_off_general]: [Jumping-off.mp3]
+[ro.config.notification_sound]: [Bells.ogg]
+[ro.crypto.type]: [block]
+[ro.crypto.state]: [encrypted]
+[ro.crypto.fs_crypto_blkdev]: [/dev/block/dm-1]
+[ro.dalvik.vm.native.bridge]: [0]
+[ro.expect.recovery_id]: [0xd1598309e256604f8abe3ee79f4e0571ca25e70f000000000000000000000000]
+[ro.gemini.smart_sim_switch]: [false]
+[ro.kernel.zio]: [38,108,105,16]
+[ro.secure]: [1]
+[ro.zygote]: [zygote64_32]
+[ro.zygote.preload.enable]: [0]
+[ro.carrier]: [unknown]
+[ro.product.cpu.abi]: [arm64-v8a]
+[ro.product.cpu.abilist]: [arm64-v8a,armeabi-v7a,armeabi]
+[ro.product.cpu.abilist32]: [armeabi-v7a,armeabi]
+[ro.product.cpu.abilist64]: [arm64-v8a]
+[ro.product.name]: [idol4_mini]
+[ro.product.board]: []
+[ro.product.brand]: [TCL]
+[ro.product.model]: [TCL 580]
+[ro.product.device]: [idol4_mini]
+[ro.product.locale.wlan.name]: [false]
+[ro.product.locale.region]: [CN]
+[ro.product.locale.language]: [zh]
+[ro.product.manufacturer]: [TCL]
+[ro.runtime.firstboot]: [1497489254300]
+[ro.baseband]: [unknown]
+[ro.bootmode]: [normal]
+[ro.hardware]: [mt6755]
+[ro.hardware.nutlet]: [mt6755]
+[ro.mediatek.wlan.p2p]: [1]
+[ro.mediatek.wlan.wsc]: [1]
+[ro.mediatek.project.path]: [device/jrdcsh/idol4_mini]
+[ro.mediatek.version.sdk]: [4]
+[ro.mediatek.version.branch]: [alps-mp-m0.mp7]
+[ro.mediatek.version.release]: [alps-mp-m0.mp7-V2.3_jrdsh6750.66c.m_P46]
+[ro.mediatek.chip_ver]: [S01]
+[ro.mediatek.platform]: [MT6755]
+[ro.mediatek.gemini_support]: [true]
+[ro.opengles.version]: [196608]
+[ro.operator.seg]: [SEGC]
+[ro.operator.optr]: [OP09]
+[ro.operator.spec]: [SPEC0212]
+[ro.revision]: [0]
+[ro.serialno]: [UO4T9LRWLNRKSOAY]
+[ro.bootimage.build.date]: [Thu Aug 25 12:12:58 CST 2016]
+[ro.bootimage.build.date.utc]: [1472098378]
+[ro.bootimage.build.fingerprint]: [TCL/full_idol4_mini/idol4_mini:6.0/MRA58K/v1AD4-0:user/release-keys]
+[ro.telephony.sim.count]: [2]
+[ro.telephony.default_network]: [10,10]
+[ro.bootloader]: [unknown]
+[ro.debuggable]: [0]
+[ro.mtk_cta_set]: [1]
+[ro.recovery_id]: [0xd1598309e256604f8abe3ee79f4e0571ca25e70f000000000000000000000000]
+[ro.ct6m_support]: [1]
+[ro.headset_mode]: [2]
+[ro.mtk_agps_app]: [1]
+[ro.mtk_bip_scws]: [1]
+[ro.mtk_is_tablet]: [0]
+[ro.mtk_bt_support]: [1]
+[ro.mtk_devreg_app]: [1]
+[ro.mtk_enable_md1]: [1]
+[ro.mtk_enable_md3]: [1]
+[ro.mtk_fd_support]: [1]
+[ro.mtk_pq_support]: [2]
+[ro.mtk_aal_support]: [1]
+[ro.mtk_afw_support]: [1]
+[ro.mtk_c2k_support]: [1]
+[ro.mtk_ct4greg_app]: [1]
+[ro.mtk_eap_sim_aka]: [1]
+[ro.mtk_gps_support]: [1]
+[ro.mtk_ims_support]: [1]
+[ro.mtk_lte_support]: [1]
+[ro.mtk_wfd_support]: [1]
+[ro.mtk_world_phone]: [1]
+[ro.have_aee_feature]: [1]
+[ro.mtk_dhcpv6c_wifi]: [1]
+[ro.mtk_emmc_support]: [1]
+[ro.mtk_sim_hot_swap]: [1]
+[ro.mtk_wapi_support]: [1]
+[ro.mtk_wlan_support]: [1]
+[ro.sim_me_lock_mode]: [0]
+[ro.mtk_fm_tx_support]: [1]
+[ro.mtk_omacp_support]: [1]
+[ro.mtk_pq_color_mode]: [1]
+[ro.mtk_shared_sdcard]: [1]
+[ro.mtk_srlte_support]: [1]
+[ro.mtk_vilte_support]: [0]
+[ro.mtk_volte_support]: [1]
+[ro.vibration_general]: [false]
+[ro.mtk_audenh_support]: [1]
+[ro.mtk_audio_profiles]: [1]
+[ro.mtk_gemini_support]: [1]
+[ro.mtk_rild_read_imsi]: [1]
+[ro.mtk_zsdhdr_support]: [1]
+[ro.lock_screen_general]: [false]
+[ro.mtk_cam_mfb_support]: [3]
+[ro.mtk_send_rr_support]: [1]
+[ro.mtk_wappush_support]: [1]
+[ro.alarm_volume_general]: [7]
+[ro.media_volume_general]: [7]
+[ro.mtk_cam_lomo_support]: [1]
+[ro.mtk_dual_mic_support]: [1]
+[ro.mtk_vilte_ut_support]: [0]
+[ro.mtk_wfd_sink_support]: [1]
+[ro.mtk_wifi_mcc_support]: [1]
+[ro.sound_effect_general]: [false]
+[ro.mtk_safemedia_support]: [1]
+[ro.mtk_search_db_support]: [1]
+[ro.ringer_volume_general]: [7]
+[ro.charging_sound_general]: [true]
+[ro.have_aacencode_feature]: [1]
+[ro.mtk_bg_power_saving_ui]: [1]
+[ro.mtk_miravision_support]: [1]
+[ro.mtk_perf_response_time]: [1]
+[ro.mtk_world_phone_policy]: [0]
+[ro.haptic_feedback_general]: [true]
+[ro.mtk_besloudness_support]: [1]
+[ro.mtk_bessurround_support]: [1]
+[ro.mtk_matv_analog_support]: [1]
+[ro.mtk_md_sbp_custom_value]: [0]
+[ro.mtk_perf_fast_start_win]: [1]
+[ro.mtk_perfservice_support]: [1]
+[ro.mtk_slow_motion_support]: [1]
+[ro.mtk_blulight_def_support]: [1]
+[ro.mtk_external_sim_support]: [1]
+[ro.mtk_fm_recording_support]: [1]
+[ro.mtk_passpoint_r1_support]: [1]
+[ro.mtk_audio_tuning_tool_ver]: [V2.2]
+[ro.mtk_dialer_search_support]: [1]
+[ro.mtk_md_world_mode_support]: [1]
+[ro.mtk_perf_simple_start_win]: [1]
+[ro.mtk_tetheringipv6_support]: [1]
+[ro.mtk_wfd_sink_uibc_support]: [1]
+[ro.screen_touch_tone_general]: [false]
+[ro.mtk_microtrust_tee_support]: [1]
+[ro.separate_ring_notification]: [false]
+[ro.sim_refresh_reset_by_modem]: [1]
+[ro.mtk_bg_power_saving_support]: [1]
+[ro.mtk_privacy_protection_lock]: [1]
+[ro.mtk_voice_extension_support]: [1]
+[ro.mtk_widevine_drm_l3_support]: [1]
+[ro.notification_volume_general]: [7]
+[ro.mtk_flight_mode_power_off_md]: [1]
+[ro.mtk_sim_hot_swap_common_slot]: [1]
+[bgw.current3gband]: [0]
+[dev.bootcomplete]: [1]
+[drm.service.enabled]: [true]
+[gps.gps.version]: [0x6630]
+[gps.clock.type]: [90]
+[gsm.gcf.testmode]: [0]
+[gsm.lte.ca.support]: [1]
+[gsm.ril.sst.mccmnc]: [46000]
+[gsm.ril.sst.mccmnc.2]: [46001]
+[gsm.ril.ct3g]: [0]
+[gsm.ril.ct3g.2]: [0]
+[gsm.ril.init]: [1]
+[gsm.ril.eboot]: [-1]
+[gsm.ril.uicctype]: [USIM]
+[gsm.ril.uicctype.2]: []
+[gsm.ril.cardtypeset]: []
+[gsm.ril.cardtypeset.2]: []
+[gsm.ril.fulluicctype]: [USIM]
+[gsm.ril.fulluicctype.2]: []
+[gsm.sim.ril.mcc.mnc]: []
+[gsm.sim.ril.mcc.mnc.2]: []
+[gsm.sim.ril.testsim]: [0]
+[gsm.sim.ril.testsim.2]: [0]
+[gsm.sim.ril.phbready]: [true]
+[gsm.sim.ril.phbready.2]: [false]
+[gsm.sim.retry.pin1]: [3]
+[gsm.sim.retry.pin1.2]: []
+[gsm.sim.retry.pin2]: [3]
+[gsm.sim.retry.pin2.2]: []
+[gsm.sim.retry.puk1]: [10]
+[gsm.sim.retry.puk1.2]: []
+[gsm.sim.retry.puk2]: [10]
+[gsm.sim.retry.puk2.2]: []
+[gsm.sim.state]: [READY,ABSENT]
+[gsm.sim.operator.imsi]: [460001751537610]
+[gsm.sim.operator.alpha]: [CMCC]
+[gsm.sim.operator.numeric]: [46000]
+[gsm.sim.operator.iso-country]: [cn]
+[gsm.sim.operator.default-name]: [中国移动]
+[gsm.enbr.rat]: [1]
+[gsm.nitz.time]: [1497678266009]
+[gsm.serial]: []
+[gsm.current.phone-type]: [1,2]
+[gsm.network.type]: [LTE,Unknown]
+[gsm.project.baseband]: [JRDSH6750_66_M(LWCTG)]
+[gsm.project.baseband.2]: [JRDSH6750_66_M(LWCTG)]
+[gsm.version.baseband]: [MOLY.LR11.W1539.MD.MP.V25.2.P37, 2016/08/25 11:49]
+[gsm.version.ril-impl]: [android reference-ril 1.0]
+[gsm.version.baseband1]: [MOLY.LR11.W1539.MD.MP.V25.2.P37, 2016/08/25 11:49]
+[gsm.baseband.capability]: [1023]
+[gsm.operator.alpha]: [中国移动]
+[gsm.operator.alpha.2]: []
+[gsm.operator.numeric]: [46000]
+[gsm.operator.isroaming]: [false,false]
+[gsm.operator.iso-country]: [cn]
+[gsm.defaultpdpcontext.active]: [false]
+[mtk.md1.status]: [ready]
+[mtk.md1.starttime]: [1s Thu Jun 15 09:12:59 2017
+]
+[mtk.md3.status]: [ready]
+[mtk.md3.starttime]: [1s Thu Jun 15 09:13:01 2017
+]
+[mtk.vdec.waitkeyframeforplay]: [1]
+[mtk.eccci.c2k]: [enabled]
+[net.bt.name]: [Android]
+[net.tcp.default_init_rwnd]: [60]
+[net.cdma.via.card.state]: [locked_or_absent]
+[net.cdma.via.service.state]: [out of service]
+[net.cdma.poker]: [red.joker]
+[net.cdma.mdmstat]: [ready]
+[net.cdma.boottimes]: [1]
+[net.dns1]: [211.136.112.50]
+[net.dns2]: [2409:8084:8000:10::1]
+[net.dns3]: [211.136.150.66]
+[net.dns4]: [2409:8084:8000:10::2]
+[net.ipv6.ccmni0.plen]: []
+[net.ipv6.ccmni0.prefix]: []
+[net.perf.cpu.core]: [4,4,0,0]
+[net.perf.cpu.freq]: [1144000,1144000,0,0]
+[net.perf.rps]: [ff]
+[net.change]: [net.cdma.via.service.state]
+[net.hostname]: [android-433c08597e6e7397]
+[net.nsiot_pending]: [false]
+[net.qtaguid_enabled]: [1]
+[ril.fd.mode]: [1]
+[ril.ia.iccid]: [898600650915f7042482]
+[ril.ia.network]: [cmnet.mnc000.mcc460.gprs]
+[ril.nw.worldmode.activemode]: [2]
+[ril.rc.session.id1]: [-1]
+[ril.ipo.radiooff]: [0]
+[ril.ipo.radiooff.2]: [0]
+[ril.mal]: [1]
+[ril.mal.flag]: [0]
+[ril.mal.socket]: [rild-mal]
+[ril.mux.ee.md1]: [0]
+[ril.mux.report.case]: [0]
+[ril.pid.1]: [1040]
+[ril.uim.subscriberid.1]: []
+[ril.uim.subscriberid.2]: [N/A]
+[ril.cdma.card.omh]: [-1]
+[ril.cdma.card.type.1]: []
+[ril.cdma.card.type.2]: []
+[ril.cdma.report]: [0]
+[ril.cdma.report.case]: [0]
+[ril.cdma.emdstatus.send]: [1]
+[ril.cdma.emdstatus.protocol]: [2]
+[ril.cdma.switching]: [0]
+[ril.data.mal]: [0]
+[ril.data.allow]: [0]
+[ril.imsi.status.sim1]: [1]
+[ril.imsi.status.sim2]: [0]
+[ril.read.imsi]: [1]
+[ril.first.md]: [1]
+[ril.iccid.sim1]: [898600650915f7042482]
+[ril.iccid.sim2]: [N/A]
+[ril.radio.ia]: [898600650915f7042482,IPV4V6,-1,,0]
+[ril.radio.ia-apn]: []
+[ril.ready.sim]: [true]
+[ril.volte.hoe.interface0]: [0]
+[ril.volte.hoe.interface1]: [0]
+[ril.volte.hoe.interface2]: [0]
+[ril.volte.hoe.interface3]: [0]
+[ril.volte.hoe.interface4]: [0]
+[ril.volte.hoe.interface5]: [0]
+[ril.volte.hoe.interface6]: [0]
+[ril.volte.hoe.interface7]: [0]
+[ril.volte.hoe.interface8]: [0]
+[ril.volte.hoe.interface9]: [0]
+[ril.volte.hoe.interface10]: [0]
+[ril.volte.hoe.interface11]: [0]
+[ril.volte.hoe.interface12]: [0]
+[ril.volte.hoe.interface13]: [0]
+[ril.volte.hoe.interface14]: [0]
+[ril.volte.hoe.interface15]: [0]
+[ril.volte.hos.interface0]: [0]
+[ril.volte.hos.interface1]: [0]
+[ril.volte.hos.interface2]: [0]
+[ril.volte.hos.interface3]: [0]
+[ril.volte.hos.interface4]: [0]
+[ril.volte.hos.interface5]: [0]
+[ril.volte.hos.interface6]: [0]
+[ril.volte.hos.interface7]: [0]
+[ril.volte.hos.interface8]: [0]
+[ril.volte.hos.interface9]: [0]
+[ril.volte.hos.interface10]: [0]
+[ril.volte.hos.interface11]: [0]
+[ril.volte.hos.interface12]: [0]
+[ril.volte.hos.interface13]: [0]
+[ril.volte.hos.interface14]: [0]
+[ril.volte.hos.interface15]: [0]
+[ril.volte.mal.opkey]: [0x0001]
+[ril.volte.mal.vijit]: [3]
+[ril.volte.mal.vojit]: [26]
+[ril.volte.mal.latency]: [65535]
+[ril.volte.mal.throupt]: [65535]
+[ril.volte.mal.pkterrth]: [99]
+[ril.volte.mal.pktlosth]: [99]
+[ril.volte.mal.retranth]: [99]
+[ril.volte.mal.rb_hoddc_t]: [3]
+[ril.volte.mal.rb_hol2w_t]: [10]
+[ril.volte.mal.rb_how2l_t]: [150]
+[ril.active.md]: [12]
+[ril.incall.num]: [0]
+[ril.phone1.mapped.md]: [MD1]
+[ril.phone2.mapped.md]: [MD3]
+[ril.c2kirat.ia]: [898600650915f7042482,]
+[ril.current.share_modem]: [2]
+[ril.ecclist]: [112,911]
+[ril.ecclist1]: []
+[ril.external.md]: [0]
+[ril.radiooff.poweroffMD]: [0]
+[ril.rilproxy]: [1]
+[ril.specific.sm_cause]: [0]
+[ril.telephony.mode]: [0]
+[ril.flightmode.poweroffMD]: [1]
+[sys.ipo.pwrdncap]: [2]
+[sys.usb.ffs.ready]: [1]
+[sys.usb.vid]: [1BBB]
+[sys.usb.state]: [adb]
+[sys.usb.config]: [adb]
+[sys.usb.config.adb]: [adb_disable]
+[sys.boot.reason]: [0]
+[sys.ipowin.done]: [1]
+[sys.sysctl.cloneuserid]: [10]
+[sys.sysctl.extra_free_kbytes]: [10800]
+[sys.sysctl.tcp_def_init_rwnd]: [60]
+[sys.boot_completed]: [1]
+[sys.oem_unlock_allowed]: [0]
+[sys.settings_global_version]: [25]
+[sys.settings_system_version]: [224]
+[wfd.dummy.enable]: [1]
+[cdma.ril.eboot]: [0]
+[cdma.version.baseband]: [SIXTH.CBP.MD.MP3.V34_P14, 2016/04/19 18:33]
+[cdma.operator.sid]: [0]
+[dhcp.ipv6.wlan0.dns1]: []
+[dhcp.ipv6.wlan0.dns2]: []
+[dhcp.ipv6.wlan0.result]: []
+[dhcp.ipv6.wlan0.ipaddress]: []
+[dhcp.ipv6.wlan0.leasetime]: []
+[dhcp.wlan0.result]: [failed]
+[init.svc.pq]: [running]
+[init.svc.sn]: [stopped]
+[init.svc.aal]: [running]
+[init.svc.drm]: [running]
+[init.svc.MPED]: [running]
+[init.svc.adbd]: [running]
+[init.svc.lmkd]: [running]
+[init.svc.logd]: [running]
+[init.svc.mnld]: [running]
+[init.svc.netd]: [running]
+[init.svc.slpd]: [running]
+[init.svc.vold]: [running]
+[init.svc.agpsd]: [running]
+[init.svc.forcc]: [running]
+[init.svc.media]: [running]
+[init.svc.getver]: [stopped]
+[init.svc.zygote]: [running]
+[init.svc.DMAgent]: [running]
+[init.svc.gas_srv]: [running]
+[init.svc.ged_srv]: [running]
+[init.svc.healthd]: [running]
+[init.svc.netdiag]: [running]
+[init.svc.tctauth]: [running]
+[init.svc.thermal]: [running]
+[init.svc.ueventd]: [running]
+[init.svc.viarild]: [running]
+[init.svc.PPLAgent]: [running]
+[init.svc.bootanim]: [stopped]
+[init.svc.ccci_fsd]: [running]
+[init.svc.installd]: [running]
+[init.svc.keystore]: [running]
+[init.svc.msensord]: [stopped]
+[init.svc.stp_dump]: [running]
+[init.svc.thermald]: [running]
+[init.svc.volte_ua]: [running]
+[init.svc.xlogboot]: [stopped]
+[init.svc.akmd09911]: [running]
+[init.svc.ccci3_fsd]: [running]
+[init.svc.debuggerd]: [running]
+[init.svc.goodixfpd]: [running]
+[init.svc.klog_boot]: [stopped]
+[init.svc.md-daemon]: [stopped]
+[init.svc.ril-proxy]: [running]
+[init.svc.vtservice]: [running]
+[init.svc.wifi2agps]: [running]
+[init.svc.wmtLoader]: [stopped]
+[init.svc.NvRAMAgent]: [running]
+[init.svc.emdlogger1]: [running]
+[init.svc.emdlogger3]: [running]
+[init.svc.emsvr_user]: [running]
+[init.svc.enableswap]: [stopped]
+[init.svc.fuelgauged]: [running]
+[init.svc.mal-daemon]: [running]
+[init.svc.ril-daemon]: [stopped]
+[init.svc.spm_script]: [stopped]
+[init.svc.terservice]: [stopped]
+[init.svc.volte_imcb]: [running]
+[init.svc.ccci_mdinit]: [running]
+[init.svc.debuggerd64]: [running]
+[init.svc.gatekeeperd]: [running]
+[init.svc.gsm0710muxd]: [running]
+[init.svc.imsm-daemon]: [stopped]
+[init.svc.logd-reinit]: [stopped]
+[init.svc.mbinfo_logs]: [stopped]
+[init.svc.start_modem]: [stopped]
+[init.svc.teei_daemon]: [running]
+[init.svc.volte_stack]: [running]
+[init.svc.ccci3_mdinit]: [running]
+[init.svc.dhcpcd_wlan0]: [stopped]
+[init.svc.fingerprintd]: [running]
+[init.svc.mobile_log_d]: [running]
+[init.svc.nvram_daemon]: [stopped]
+[init.svc.66xx_launcher]: [running]
+[init.svc.defaultcrypto]: [stopped]
+[init.svc.guiext-server]: [running]
+[init.svc.batterywarning]: [running]
+[init.svc.flash_recovery]: [stopped]
+[init.svc.gettracability]: [stopped]
+[init.svc.p2p_supplicant]: [running]
+[init.svc.program_binary]: [running]
+[init.svc.ril-daemon-mtk]: [running]
+[init.svc.servicemanager]: [running]
+[init.svc.surfaceflinger]: [running]
+[init.svc.MtkCodecService]: [running]
+[init.svc.bootlogoupdater]: [stopped]
+[init.svc.thermal_manager]: [stopped]
+[init.svc.firmware_upgrade]: [stopped]
+[init.svc.init_thh_service]: [stopped]
+[init.svc.thermalloadalgod]: [running]
+[init.svc.xlogdebugchanged]: [stopped]
+[init.svc.zygote_secondary]: [running]
+[qemu.hw.mainkeys]: [0]
+[rild.libargs]: [-d /dev/ttyC0]
+[rild.libpath]: [mtk-ril.so]
+[rild.mark_switchuser]: [0]
+[vold.path.internal_storage]: [/storage/emulated/0]
+[vold.decrypt]: [trigger_restart_framework]
+[vold.encryption.type]: [default]
+[vold.has_adoptable]: [1]
+[vold.post_fs_data_done]: [1]
+[vold.support_external_sd]: [1]
+[wifi.direct.interface]: [p2p0]
+[wifi.interface]: [wlan0]
+[wifi.tethering.interface]: [ap0]
+[wlan.wfd.security.image]: [1]
+[wlan.driver.status]: [ok]
+[debug.MB.prdebug]: [1]
+[debug.MB.running]: [1]
+[debug.MB.realpath]: [/storage/emulated/0/mtklog/mobilelog/APLog_2017_0617_141256/]
+[debug.sf.gfps]: [53]
+[debug.sf.sfps]: [0]
+[debug.hwc.bq_count]: [4]
+[debug.hwc.dump_level]: [0]
+[debug.hwc.compose_level]: [0]
+[debug.mdl.sdswap.path]: [/mnt/sdcard]
+[debug.mdl.save_log_stroage]: [/storage/emulated/0]
+[debug.atrace.tags.enableflags]: [0]
+[debug.jrdlog]: [1]
+[debug.mtklog.netlog.Running]: [1]
+[debug.mtklog.netlog.Breakloop]: [0]
+[debug.netlog.stopreason]: []
+[debug.netlog.writtingpath]: [/storage/emulated/0/mtklog/netlog/NTLog_2017_0617_141256]
+[debug.mdlogger.log2sd.path]: [internal_sd]
+[debug.mdlogger.Running]: [1]
+[debug.force_rtl]: [0]
+[debug.gpsdbglog.enable]: [0]
+[debug.jrdrecord]: [1]
+[debug.program_binary.enable]: [1]
+[media.wfd.portrait]: [0]
+[media.wfd.video-format]: [5]
+[soter.teei.thh.init]: [INIT_END]
+[soter.teei.init]: [INIT_OK]
+[camera.disable_zsl_mode]: [1]
+[dalvik.vm.isa.arm.variant]: [cortex-a53]
+[dalvik.vm.isa.arm.features]: [default]
+[dalvik.vm.isa.arm64.variant]: [cortex-a53]
+[dalvik.vm.isa.arm64.features]: [default]
+[dalvik.vm.heapsize]: [512m]
+[dalvik.vm.dex2oat-Xms]: [64m]
+[dalvik.vm.dex2oat-Xmx]: [512m]
+[dalvik.vm.heapgrowthlimit]: [256m]
+[dalvik.vm.stack-trace-file]: [/data/anr/traces.txt]
+[dalvik.vm.image-dex2oat-Xms]: [64m]
+[dalvik.vm.image-dex2oat-Xmx]: [64m]
+[dalvik.vm.mtk-stack-trace-file]: [/data/anr/mtk_traces.txt]
+[dualsim.ui.support]: [true]
+[fmradio.driver.enable]: [1]
+[persist.af.hac_on]: [0]
+[persist.dm.lock]: [false]
+[persist.mal.mode]: [0]
+[persist.mtk.aee.mode]: [3]
+[persist.mtk.aee.modeswitchedby]: [mobile_log_d]
+[persist.mtk.wcn.combo.chipid]: [0x6630]
+[persist.mtk.wcn.fwlog.status]: [no]
+[persist.mtk.wcn.dynamic.dump]: [0]
+[persist.mtk.volte.enable]: [1]
+[persist.mtk.datashaping.support]: [1]
+[persist.sys.pq.adl.idx]: [0]
+[persist.sys.pq.picmode]: [2
+]
+[persist.sys.sd.defaultpath]: [/storage/emulated/0]
+[persist.sys.nfc.support]: [1]
+[persist.sys.usb.config]: [adb]
+[persist.sys.mute.state]: [1]
+[persist.sys.muted.mode]: [false]
+[persist.sys.dalvik.vm.lib.2]: [libart.so]
+[persist.sys.ringer.mode]: [mtk_audioprofile_silent]
+[persist.sys.timezone]: [Asia/Shanghai]
+[persist.sys.switch_on]: [/system/custpack/JRD_custres/audio/switch_on_off/Jumping-on.mp3]
+[persist.sys.view_back]: [0]
+[persist.sys.switch_off]: [/system/custpack/JRD_custres/audio/switch_on_off/Jumping-off.mp3]
+[persist.sys.profiler_ms]: [0]
+[persist.sys.screen_shot]: [1]
+[persist.sys.headset_mode]: [2]
+[persist.sys.rapid_capture]: [1]
+[persist.sys.skin_smoothing]: [80]
+[persist.sys.first_time_boot]: [false]
+[persist.sys.tct_face_beauty]: [0]
+[persist.sys.tone_adjustment]: [80]
+[persist.sys.esn_track_switch]: [0]
+[persist.sys.pocketmode_enabled]: [true]
+[persist.meta.dumpdata]: [0]
+[persist.radio.fd.r8.counter]: [15]
+[persist.radio.fd.off.r8.counter]: [5]
+[persist.radio.fd.off.counter]: [5]
+[persist.radio.fd.counter]: [15]
+[persist.radio.ia]: [898600650915f7042482,IPV4V6,-1,,0]
+[persist.radio.re.ia.flag]: [0]
+[persist.radio.re.ia-apn]: []
+[persist.radio.ut.cfu.mode]: [disabled_ut_cfu_mode,disabled_ut_cfu_mode]
+[persist.radio.cfu.iccid.0]: [898600650915f7042482]
+[persist.radio.cfu.iccid.1]: [89860116831005323217]
+[persist.radio.cfu.change.0]: [0]
+[persist.radio.cfu.change.1]: [0]
+[persist.radio.cfu.timeslot.0]: []
+[persist.radio.cfu.timeslot.1]: []
+[persist.radio.sim.sbp]: [1]
+[persist.radio.data.iccid]: [898600650915f7042482]
+[persist.radio.ia-apn]: []
+[persist.radio.mobile.data]: [0,0]
+[persist.radio.default.sim]: [0]
+[persist.radio.multisim.config]: [dsds]
+[persist.radio.cdma_slot]: [2]
+[persist.radio.flashless.fsm]: [0]
+[persist.radio.flashless.fsm_rw]: [0]
+[persist.radio.flashless.fsm_cst]: [0]
+[persist.radio.simswitch]: [1]
+[persist.radio.simswitch.iccid]: [898600650915f7042482]
+[persist.radio.svlte_slot]: [2,3]
+[persist.radio.ia-pwd-flag]: [0]
+[persist.radio.mtk_ps2_rat]: [persist.sys.cmplus.oemwhitelist=/system/etc/container/extra_oem_clone_box_policy.xml]
+[persist.radio.gemini_support]: [1]
+[persist.radio.terminal-based.cw]: [disabled_tbcw,disabled_tbcw]
+[persist.radio.reset_on_switch]: [false]
+[persist.radio.mtk_dsbp_support]: [1]
+[persist.config.AutoPowerModes]: [1]
+[persist.gemini.sim_num]: [2]
+[persist.mtklog.log2sd.path]: [internal_sd]
+[persist.service.acm.enable]: [0]
+[persist.service.stk.shutdown]: [0]
+[persist.service.bdroid.vol]: [0]
+[persist.service.bdroid.bdaddr]: [22:22:3e:b4:1e:b5]
+[persist.datashaping.alarmgroup]: [1]
+[persist.mtk_dynamic_ims_switch]: [0]
+[selinux.reload_policy]: [1]
+[service.cat.install.on]: [0]
+[service.cat.install.on.2]: [0]
+[service.cat.install.on.3]: [0]
+[service.cat.install.on.4]: [0]
+[service.wcn.driver.ready]: [yes]
+[service.wcn.coredump.mode]: [0]
+[service.bootanim.exit]: [1]
+[service.nvram_init]: [Ready]
+[mediatek.em.usb.set]: [USB_DRIVING_CAPABILITY]
+[mediatek.em.usb.value]: [14]
+[mediatek.wlan.chip]: [MT6630]
+[mediatek.wlan.ctia]: [0]
+[mediatek.wlan.module.postfix]: [_mt6630]
+[mtk_wifi.fwpath]: [STA]
+[security.perf_harden]: [1]
+[telephony.lteOnCdmaDevice]: [1]
+[ro_def_hardware_version]: [PROTO]
+[ro_config_phnum_accurate]: [false]
+[default_inputmethod_is_sogou]: [true]
+[ro_config_phnum_significant_len]: [11]
+================ END of FILE ===============
+
